@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### Mahesh here..!!
 
+- 🌱 I’m currently Pursing In MSC(COMPUTER SCIENCE) ****
+
+- 📫 Reach me at **maheshbhadane708@gmail.com**
+
 <!--
 **Mahesh-Bhadane/Mahesh-Bhadane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
