@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Bhadane&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Mahesh's Github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Bhadane&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-Bhadane&theme=tokyonight" alt="Mahesh's Streak">
+</p>
