@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Mahesh here..!!
 
-- 🌱 I’m currently Pursing In MSC(COMPUTER SCIENCE)..!!
+- 🌱 I’m currently Pursing MSC(COMPUTER SCIENCE)..!!
 
 - 📫 Reach me at **maheshbhadane708@gmail.com**
 
