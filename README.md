@@ -6,6 +6,8 @@
 - 📫 Reach me at **maheshbhadane708@gmail.com**
 
 - 🌱 Resume available at <a href="Mahesh_Bhadane_MCS_N20111056.pdf">Mahesh's Resume</a>
+
+- 👨‍💻 All of my Achievements are available at <a href="Achievements.pdf">Mahesh's Achievements</a>
 <!--
 **Mahesh-Bhadane/Mahesh-Bhadane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
