@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **maheshbhadane708@gmail.com**
 
-- 🌱 Resume available at <a href="Mahesh_Bhadane_MCS_N20111056.pdf">Mahesh's Resume</a>
+- 🌱 Resume available at <a href="Mahesh_Bhadane_MSC_N20111056 .pdf">Mahesh's Resume</a>
 
 - 👨‍💻 All of my Achievements are available at <a href="Achievements.pdf">Mahesh's Achievements</a>
 <!--
