@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Mahesh here..!!
 
-- 🌱 Associate Software Engineer @Torinit | Full Stack Engineer | Front End Specialist | Self learner
+- 🌱 Junior Software Engineer @Torinit | Full Stack Engineer | Front End Specialist | Self learner
 - 📫 Reach me at **maheshbhadane708@gmail.com**
 
 - 🌱 Resume available at <a href="Mahesh Bhadane.pdf">Mahesh's Resume</a>
