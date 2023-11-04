@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### Mahesh here..!!
 
-- 🌱 I’m currently Pursing MSC(COMPUTER SCIENCE)..!!
-MAHESH_BHADANE.pdf
+- 🌱 Associate Software Engineer @Torinit | Full Stack Engineer | Front End Specialist | Self learner
 - 📫 Reach me at **maheshbhadane708@gmail.com**
 
 - 🌱 Resume available at <a href="MAHESH_BHADANE.pdf">Mahesh's Resume</a>
