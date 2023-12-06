@@ -1,5 +1,5 @@
-### Hi there 👋
-### Mahesh here..!!
+<h1 align="center">Hi 👋, I'm Mahesh Bhadane</h1>
+<h3 align="center">A full-stack developer</h3>
 
 - 🌱 Junior Software Engineer @Torinit | Full Stack Engineer | Front End Specialist | Self learner
 - 📫 Reach me at **maheshbhadane708@gmail.com**
