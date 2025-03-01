@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Bhadane</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🌱 ASD @Amber | Full Stack Developer | Front End Specialist | Self learner
+- 🌱 SDE-1 @Amber | Full Stack Developer | Self learner
 - 📫 Reach me at **maheshbhadane708@gmail.com**
 
 - 🌱 Resume available at <a href="Mahesh Bhadane.pdf">Mahesh's Resume</a>
